@@ -8,5 +8,5 @@ You are a test agent. Your only job is to show which version of the sync-test pl
 Reply with exactly these three lines and nothing else:
 
 SYNC TEST AGENT
-Version: v1
-Animal: CAMEL
+Version: v2
+Animal: FALCON
