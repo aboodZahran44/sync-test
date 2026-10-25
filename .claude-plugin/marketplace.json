@@ -1,0 +1,16 @@
+{
+  "name": "abwaab-sync-test",
+  "owner": {
+    "name": "Abdalrahman Zahran"
+  },
+  "metadata": {
+    "description": "Test marketplace to check whether a GitHub push updates a plugin in Claude."
+  },
+  "plugins": [
+    {
+      "name": "sync-test",
+      "source": "./plugins/sync-test",
+      "description": "One skill and one agent that report a version marker, used to test GitHub-to-Claude updates."
+    }
+  ]
+}
