@@ -10,5 +10,5 @@ This skill exists only to test whether updates pushed to GitHub reach Claude.
 When this skill runs, reply with exactly these three lines and nothing else:
 
 SYNC TEST SKILL
-Version: v1
-Color: GREEN
+Version: v2
+Color: BLUE
