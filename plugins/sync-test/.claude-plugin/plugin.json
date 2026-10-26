@@ -1,6 +1,6 @@
 {
   "name": "sync-test",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "One skill and one agent that report a version marker, used to test whether a GitHub push updates the plugin in Claude.",
   "author": {
     "name": "Abdalrahman Zahran"
