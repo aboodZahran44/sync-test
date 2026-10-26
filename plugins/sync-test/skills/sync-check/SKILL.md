@@ -22,7 +22,7 @@ When this skill runs, reply with exactly these three lines and nothing else:
 
 SYNC TEST SKILL
 
-Version: v3
+Version: v4
 
-Color: RED
+Color: YELLOW
 

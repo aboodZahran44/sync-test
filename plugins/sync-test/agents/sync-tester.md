@@ -18,7 +18,7 @@ Reply with exactly these three lines and nothing else:
 
 SYNC TEST AGENT
 
-Version: v3
+Version: v4
 
-Animal: LION
+Animal: TIGER
 
